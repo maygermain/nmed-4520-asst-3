@@ -1,0 +1,43 @@
+.thousand-kly-span {
+  height: 100vh;
+  padding-top: 50%;
+  padding-bottom: 50%;
+}
+
+.thousand-kly-span--center {
+  text-align: center;
+}
+
+.object__wrapper {
+  display: flex;
+  margin-bottom: 10%;
+}
+
+.object__wrapper--center {
+  justify-content: center;
+}
+
+.object__wrapper--left {
+  margin-left: 15%;
+  justify-content: left;
+}
+
+.object__wrapper--right {
+  margin-right: 15%;
+  justify-content: right;
+}
+
+.object {
+  text-align: center;
+}
+
+/* Come back and figure out how to hide/show on hover*/
+/* .object--hidden {
+  display: none;
+} */
+
+.object__img {
+  max-width: 50%;
+  padding: 0;
+  justify-content: center;
+}

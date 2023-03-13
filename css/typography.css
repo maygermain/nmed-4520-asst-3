@@ -1,0 +1,21 @@
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Share Tech Mono', monospace;*/
+
+.lg-header {
+  font-family: 'Share Tech Mono', monospace;
+  color: var(--light-blue);
+  font-size: 20px;
+}
+
+.md-header {
+  font-family: 'Rubik', sans-serif;
+  color: var(--off-white);
+  font-size: 14px;
+}
+
+.paragraph {
+  font-family: 'Raleway', sans-serif;
+  color: var(--off-white);
+  font-size: 12px;
+}
