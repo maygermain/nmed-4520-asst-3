@@ -1,18 +1,8 @@
-@import '/css/normalize.css';
-@import '/css/colors.css';
-@import '/css/typography.css';
-@import '/css/footer.css';
-@import '/css/objects.css';
-
-.background {
-  background-color: black;
-}
-
-.title-view {
-  background-color: var(--dark-blue);
-}
-
-.space {
-  background-image: linear-gradient(var(--dark-blue), black);
-  padding: 5%;
-}
+@import 'normalize.css';
+@import 'colors.css';
+@import 'typography.css';
+@import 'pages.css';
+@import 'nav.css';
+@import 'objects.css';
+@import 'footer.css';
+@import 'media-queries.css';

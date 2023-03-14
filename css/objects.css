@@ -1,5 +1,5 @@
 .thousand-kly-span {
-  height: 100vh;
+  min-height: 100vh;
   padding-top: 50%;
   padding-bottom: 50%;
 }
@@ -30,11 +30,6 @@
 .object {
   text-align: center;
 }
-
-/* Come back and figure out how to hide/show on hover*/
-/* .object--hidden {
-  display: none;
-} */
 
 .object__img {
   max-width: 50%;

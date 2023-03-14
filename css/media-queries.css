@@ -1,0 +1,27 @@
+@media screen and (max-width:1000px) {
+    .object__wrapper {
+        margin-bottom: 20%;
+    }
+
+    .title-view {
+        padding-top: 5vh;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .list {
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .lg-header--title {
+        font-size: 30px;
+        text-align: left;
+    }
+
+    .md-header--title {
+        font-size: 15px;
+        text-align: left;
+    }
+}

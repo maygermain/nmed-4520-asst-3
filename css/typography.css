@@ -8,14 +8,32 @@ font-family: 'Share Tech Mono', monospace;*/
   font-size: 20px;
 }
 
+.lg-header--title {
+  font-family: 'Share Tech Mono', monospace;
+  color: var(--light-blue);
+  font-size: 40px;
+  text-align: center;
+}
+
 .md-header {
   font-family: 'Rubik', sans-serif;
   color: var(--off-white);
-  font-size: 14px;
+  font-size: 16px;
+}
+
+.md-header--title {
+  font-family: 'Raleway', sans-serif;
+  color: var(--off-white);
+  font-size: 25px;
+  text-align: center;
 }
 
 .paragraph {
   font-family: 'Raleway', sans-serif;
   color: var(--off-white);
-  font-size: 12px;
+  font-size: 16px;
+}
+
+.paragraph--source {
+  max-width: 70%;
 }
